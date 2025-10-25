@@ -3,7 +3,8 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbopack",
-    "start": "next start"
+    "start": "next start",
+    "clean:install": "rm -rf node_modules pnpm-lock.yaml; pnpm run clean; pnpm install"
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",

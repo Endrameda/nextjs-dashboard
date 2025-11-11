@@ -2,5 +2,5 @@
 
 - [x] Chapter 1–7 (Done)
 - [x] Chapter 8 – Static & Dynamic 
-- [ ] Chapter 9 – Streaming
-
+- [X] Chapter 9 – Streaming
+- [X] Chapter 10 – Adding Search & Pagination

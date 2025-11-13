@@ -60,9 +60,7 @@ export async function updateInvoice(id: string,formData: FormData) {
   `;
   } catch (error) {
     console.error('Error updating invoice:', error);
-    return {
-      message: 'Database Error: Failed to Update Invoice.',
-    };
+    throw new Error('Database Error: Failed to Update Invoice.');
   }
 
 

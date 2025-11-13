@@ -5,3 +5,4 @@
 - [X] Chapter 9 – Streaming
 - [X] Chapter 10 – Adding Search & Pagination
 - [X] Chapter 11 – Mutating Data
+- [X] Chapter 12 – Handling Errors
